@@ -1,8 +1,8 @@
 package router
 
 import (
-	"app/dic"
 	"github.com/gin-gonic/gin"
+	"golang-api-auth-template/dic"
 )
 
 func NewRouter() *gin.Engine {

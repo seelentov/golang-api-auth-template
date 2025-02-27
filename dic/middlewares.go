@@ -1,9 +1,9 @@
 package dic
 
 import (
-	"app/http/middlewares"
-	"app/logger"
 	"github.com/gin-gonic/gin"
+	"golang-api-auth-template/http/middlewares"
+	"golang-api-auth-template/logger"
 	"os"
 )
 

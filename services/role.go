@@ -1,8 +1,8 @@
 package services
 
 import (
-	"app/models"
 	"errors"
+	"golang-api-auth-template/models"
 )
 
 var (

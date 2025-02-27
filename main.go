@@ -1,11 +1,11 @@
 package main
 
 import (
-	"app/data"
-	"app/http/router"
 	"errors"
 	"fmt"
 	"github.com/joho/godotenv"
+	"golang-api-auth-template/data"
+	"golang-api-auth-template/http/router"
 	"log"
 	"net/http"
 	"os"

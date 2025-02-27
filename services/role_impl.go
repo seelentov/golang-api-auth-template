@@ -1,9 +1,9 @@
 package services
 
 import (
-	"app/models"
 	"fmt"
 	"go.uber.org/zap"
+	"golang-api-auth-template/models"
 	"gorm.io/gorm"
 )
 

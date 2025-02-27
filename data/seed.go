@@ -1,8 +1,8 @@
 package data
 
 import (
-	"app/logger"
-	"app/models"
+	"golang-api-auth-template/logger"
+	"golang-api-auth-template/models"
 	"log"
 )
 

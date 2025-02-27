@@ -1,9 +1,9 @@
 package dic
 
 import (
-	"app/data"
-	"app/logger"
-	"app/services"
+	"golang-api-auth-template/data"
+	"golang-api-auth-template/logger"
+	"golang-api-auth-template/services"
 	"log"
 	"os"
 	"strconv"

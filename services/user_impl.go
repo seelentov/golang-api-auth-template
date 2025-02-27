@@ -1,10 +1,10 @@
 package services
 
 import (
-	"app/models"
 	"errors"
 	"fmt"
 	"go.uber.org/zap"
+	"golang-api-auth-template/models"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 )

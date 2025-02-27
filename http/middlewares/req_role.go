@@ -1,9 +1,9 @@
 package middlewares
 
 import (
-	"app/services"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
+	"golang-api-auth-template/services"
 	"net/http"
 )
 

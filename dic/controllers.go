@@ -1,8 +1,8 @@
 package dic
 
 import (
-	"app/http/controllers"
-	"app/logger"
+	"golang-api-auth-template/http/controllers"
+	"golang-api-auth-template/logger"
 )
 
 var authController *controllers.AuthController

@@ -1,12 +1,12 @@
 package controllers
 
 import (
-	"app/http/dtos"
-	"app/http/validator"
-	"app/models"
-	"app/services"
 	"errors"
 	"github.com/gin-gonic/gin"
+	"golang-api-auth-template/http/dtos"
+	"golang-api-auth-template/http/validator"
+	"golang-api-auth-template/models"
+	"golang-api-auth-template/services"
 	"net/http"
 )
 

@@ -1,10 +1,10 @@
 package data
 
 import (
-	"app/logger"
-	"app/models"
 	"errors"
 	"fmt"
+	"golang-api-auth-template/logger"
+	"golang-api-auth-template/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"log"
